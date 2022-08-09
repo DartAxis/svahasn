@@ -1,0 +1,3 @@
+databaseChangeLog:
+  - include:
+      file: db/change-log/changesets/changeset-0.0.1.sql
